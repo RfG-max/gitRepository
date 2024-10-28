@@ -1,10 +1,10 @@
-git_1: Update and commit 1.txt file, modify two lines.
-git_1: Update and commit 1.txt file, modify two lines.
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
-git_1: Update and commit 1.txt file, modify another two lines
-git_1: Update and commit 1.txt file, modify another two lines
+Added firstFile.txt to git_1
+Added firstFile.txt to git_1
+Added firstFile.txt to git_1
+Added firstFile.txt to git_1
