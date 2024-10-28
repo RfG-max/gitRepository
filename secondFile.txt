@@ -1,5 +1,5 @@
-Added secondFile.txt to git_1
-Added secondFile.txt to git_1
+git_2: Update and commit any two lines in secondFile.txt 
+git_2: Update and commit any two lines in secondFile.txt 
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
